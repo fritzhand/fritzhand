@@ -48,7 +48,7 @@ The form keeps changing — startup incubators, artisan enterprises, peace-tech 
 
 - 🏛️ &nbsp;By day, I'm **CEO of VentureStudio**, the innovation & incubation platform at **Ahmedabad University** — helping founders go from idea to durable company through programs like **MentorManthan**, **BioSangam**, **BIPASS**, and the **VentureStudio Fellowship**.
 - 🤖 &nbsp;**AI optimist** — I build AI tools and intelligence platforms for founders, universities, and ecosystems: [contxtmd](https://contxtmd.com), [EduStrat AI](https://edustratai.com), [GazetteIQ](https://gazetteiq.com), [MentorManthan](https://mentormanthan.in), and more.
-- 🧵 &nbsp;Co-founded **[Studio Bagru](https://studiobagru.com)** — a decade-plus connecting Rajasthan's hand block printing artisans to global markets.
+- 🧵 &nbsp;Co-founded **Bagru Textiles** — now **[Studio Bagru](https://studiobagru.com)** — a decade-plus connecting Rajasthan's hand block printing artisans to global markets.
 - 🕊️ &nbsp;Founded **[PeaceRise](https://peacerise.app)** — a peace-tech platform that grew to 200+ partners across 26 countries.
 - 💬 &nbsp;Ask me about **incubation design, mentor networks, university innovation, social enterprise, and building real products with AI**.
 - 📍 &nbsp;**Ahmedabad, India** — via Cincinnati, Bagru, and everywhere in between.
@@ -77,7 +77,7 @@ Then the chapters got bigger:
 - **The Bagru years** — Co-founded **Bagru Textiles**, which grew into **[Studio Bagru](https://studiobagru.com)** — putting e-commerce, export, and business capability in the hands of the artisans themselves. Became a lifelong craft ambassador along the way.
 - **In between** — MBA at **Thunderbird School of Global Management**, corporate supply chain, then the pull back to Bagru in 2016 — where I met my wife.
 - **The Cincinnati chapter** — **Director of Startup Services at Alloy Growth Lab**, a UBI Global top-10 business incubator. Founded **[PeaceRise](https://peacerise.app)** to connect innovators building for peace worldwide.
-- **2025 → today** — Full circle: back in India as **CEO of VentureStudio** at Ahmedabad University, building the ecosystem — and the AI tools underneath it.
+- **Late 2024 → today** — Full circle: back in India as **CEO of VentureStudio** at Ahmedabad University, building the ecosystem — and the AI tools underneath it.
 
 <details>
 <summary>📖 &nbsp;<b>Read the full story — a four-part series I wrote on LinkedIn</b></summary>
@@ -138,9 +138,9 @@ If something here is useful to you, a ⭐ helps other builders find it.
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=fritzhand&show_icons=true&hide_border=true&bg_color=152A30&title_color=7CC8C8&text_color=EFF5F6&icon_color=F4A300&ring_color=1C7270" alt="stats" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fritzhand&theme=solarized_dark" alt="stats" />
 &nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzhand&layout=compact&hide_border=true&bg_color=152A30&title_color=7CC8C8&text_color=EFF5F6" alt="languages" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fritzhand&theme=solarized_dark" alt="languages" />
 
 </div>
 
