@@ -58,28 +58,6 @@ The form keeps changing — startup incubators, artisan enterprises, peace-tech 
 <!-- ════════════════════════ JOURNEY ════════════════════════ -->
 ## 🛤️ The Journey
 
-I've spent my career at the edges: between cultures, between disciplines, between the world as it is and the world as it could be. That's where the interesting work happens.
-
-It started small — and it compounded:
-
-| | Milestone | How it happened |
-|---|---|---|
-| 💵 | **First $1** — age 5 | Joined my older brother's paper route |
-| 🧸 | **First $10** — age 6 | Made and sold stress-relief balls at school |
-| 🎮 | **First $100** — age 9 | Flipped video games and Nokia 5160 faceplates on eBay — and from my school locker |
-| 🏆 | **First $1,000** — high school | Ran a bracket-style Nerf tournament and built my first website |
-
-Then the chapters got bigger:
-
-- **2000** — First trip to India at age 12, backpacking with my family through Karnataka. It left a lasting impression.
-- **2009** — Term abroad from Union College. My class stopped in **Bagru, Rajasthan**, where artisans have practiced hand block printing for 300+ years. Social-entrepreneurial lightbulb: on.
-- **2010** — Graduated, earned a social-entrepreneurship fellowship, packed a backpack, and moved to Bagru. The 10-month project became **10 years**.
-- **The Bagru years** — Co-founded **Bagru Textiles**, which grew into **[Studio Bagru](https://studiobagru.com)** — putting e-commerce, export, and business capability in the hands of the artisans themselves. Became a lifelong craft ambassador along the way.
-- **In between** — MBA at **Thunderbird School of Global Management**, corporate supply chain, then the pull back to Bagru in 2016 — where I met my wife.
-- **The Cincinnati chapter** — **Director of Startup Services at Alloy Growth Lab**, a UBI Global top-10 business incubator. Founded **[PeaceRise](https://peacerise.app)** to connect innovators building for peace worldwide.
-- **Late 2024 → today** — Full circle: back in India as **CEO of VentureStudio** at Ahmedabad University, building the ecosystem — and the AI tools underneath it.
-
-<details>
 <summary>📖 &nbsp;<b>Read the full story — a four-part series I wrote on LinkedIn</b></summary>
 <br/>
 
