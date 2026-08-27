@@ -142,21 +142,20 @@ Ecosystem building runs on knowledge that usually stays locked inside incubators
 | Project | What it is |
 |---|---|
 | **[startup-stack](https://github.com/fritzhand/startup-stack)** | The documents every startup should have, compiled into an AI-readable knowledge base — templates, prompts, and weekly recap rituals |
-| **[open-innovation-stack](https://github.com/fritzhand/open-innovation-stack)** | Shared infrastructure proposal connecting founders, incubators, universities, mentors, and funders |
 | **[site2deck](https://github.com/fritzhand/site2deck)** | Turns any company website into a branded, offline HTML slide deck — design tokens sampled automatically |
 | **[geo-landing-page](https://github.com/fritzhand/geo-landing-page)** | Astro landing-page template optimized for search engines *and* AI crawlers |
 | **[pressroom](https://github.com/fritzhand/pressroom)** | Turns organizational updates into newsletters and social content |
 | **[ai-dev](https://github.com/fritzhand/ai-dev)** | Build a landing page. Build your app. Understand every step. A project-first course for people who aren't developers |
 
-### 🇮🇳 Built in India, left open
+### 🏗️ Shared infrastructure
 
-Five years in Ahmedabad taught me how much of India's public record is technically public and practically unusable. These are attempts to fix that — all independent, all unofficial, all sourced:
+The bigger swings — less a tool than a proposed way for a whole ecosystem to work:
 
 | Project | What it is |
 |---|---|
-| **[startup-india-guide](https://github.com/fritzhand/startup-india-guide)** | An independent, source-linked guide to **69 central-government startup schemes**, with finder tools that route a founder to the ones they actually qualify for |
-| **[open-india-law](https://github.com/fritzhand/open-india-law)** | Open, structured Indian primary law — **32.5M judgment chunks** from the Supreme Court and all 25 High Courts, 1.1M legislation provisions, and the scrapers that build it. CC BY 4.0 |
-| **[open-ondc](https://github.com/fritzhand/open-ondc)** | An independent portal for India's Open Network for Digital Commerce — company info and open-source projects, sourced and cross-linked |
+| **[open-innovation-stack](https://github.com/fritzhand/open-innovation-stack)** | A public proposal for shared infrastructure across founders, incubators, universities, mentors, facilities, and funders — common workflows, portable records, and an open Innovation Hub Data Standard |
+| **[stack-kb](https://github.com/fritzhand/stack-kb)** | A clone-and-own knowledge base for *any* function of any organization — one spine of ten sections, prepared by interview before it holds a single document. The generalized sibling of startup-stack |
+| **[startup-india-guide](https://github.com/fritzhand/startup-india-guide)** | Built in Ahmedabad: an independent, source-linked guide to **69 central-government startup schemes** in India, with finder tools that route a founder to the ones they actually qualify for |
 
 If something here is useful to you, a ⭐ helps other builders find it.
 
